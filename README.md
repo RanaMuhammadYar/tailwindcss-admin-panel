@@ -1,6 +1,8 @@
-# Tailwind CSS 3 Admin Layout & UI Kit Template
+# Riyast College Tailwind CSS 3 Admin Layout & UI Kit Template
 We would like to thank you for purchasing Tailzon :). The following guideline will help you to get started with the Tailzon and its documentation.
 
+
+# Subscribe to my YouTube channel for more Tailwind CSS tutorials. Don't forget to like, share, and leave a comment if you encounter any issues or have questions
 #### Docs and Examples
 
 The `docs` directory contains all the static resources required for docs and examples. To view, just open in your favorite browser!
