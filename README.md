@@ -1,4 +1,4 @@
-# Tailzon - Tailwind CSS 3 Admin Layout & UI Kit Template
+# Tailwind CSS 3 Admin Layout & UI Kit Template
 We would like to thank you for purchasing Tailzon :). The following guideline will help you to get started with the Tailzon and its documentation.
 
 #### Docs and Examples
